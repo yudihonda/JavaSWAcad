@@ -1,4 +1,4 @@
-peanut
+
 Sistema de Cadastro de Alunos e Treinos
 
 Aplicação Java integrada ao MySQL para gerenciamento de alunos e treinos. O sistema permite cadastrar, consultar, editar e excluir alunos e treinos. Inclui telas gráficas para operação do sistema.
